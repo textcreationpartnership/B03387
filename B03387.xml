@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and true account of a great and signal victory gain'd by the imperialists over the Turks dated from Vienna the 8th of September.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03387</idno>
+            <idno type="STC">Wing F2293B</idno>
+            <idno type="STC">ESTC R225093</idno>
+            <idno type="EEBO-CITATION">52612521</idno>
+            <idno type="OCLC">ocm 52612521</idno>
+            <idno type="VID">175888</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03387)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175888)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2753:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and true account of a great and signal victory gain'd by the imperialists over the Turks dated from Vienna the 8th of September.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed ...,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>in the year, 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Licensed and entred according to order."</note>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Date of publication from colophon.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Austro-Turkish War, 1683-1699 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175888:1"/>
+            <head>A Full and True ACCOUNT OF A Great and Signal Victory Gain'd by the Imperialiſts over the Turks. Dated from <hi>Vienna</hi> the 8th of <hi>september.</hi>
+            </head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licenſed and entred according to Order.</p>
+               </body>
+            </floatingText>
+            <p>ON the Sixth of this Month Count <hi>Caſtelli,</hi> General of Batalia, and Ba<g ref="char:EOLhyphen"/>ron <hi>Smidberg,</hi> having been diſpatch'd by Prince <hi>Lowis</hi> of <hi>Baden</hi> to the Emperour, brought the following Particulars of a great Victory gain'd over the <hi>Turks.</hi>
+            </p>
+            <p>That the <hi>Imperial</hi> Army, which he commands in <hi>Servia,</hi> came on the 21ſt of <hi>Auguſt</hi> to <hi>Konighfelt,</hi> notwithſtanding the ſteepneſs and difficulty of the Mountains, which are interlac'd with Mooraſſes, ſo as that they were become impaſſable by the continual Rains, with which its march had been extreamly incommoded, from the time it had paſſed the <hi>Morava,</hi> for the going in purſuit of the <hi>Seraſquier,</hi> who was retreating towards <hi>Niſſa.</hi> That the ſame day he came in view of the <hi>Ottoman</hi> Army, which was drawn up in Battle-array upon Hills. That on the 22d the <hi>Seraſquier</hi> retired towards <hi>Jagodina,</hi> behind the River <hi>Morava,</hi> which falls into the <hi>Danube,</hi> where he remain'd Encamp'd till the 26th, for the aſſembling all his numerous Forces, conſiſting of Sixty Thouſand Men, according to the Report of Spies and Deſertets. That the Prince had endeavoured to paſs that River, ſo to attack the <hi>Turks:</hi> But the ill ways having hinder'd the expeditious bringing up of the Boats, and other ne<g ref="char:EOLhyphen"/>ceſſary Materials for making a Bridge, he had made ſemblance of retreating, that ſo by this ſeint he might draw the <hi>Seraſquier</hi> out of the advantagious Poſts he poſſeſſed, and come to ſome great Action. After this, on the 29th of the ſame Month, being St. <hi>John's</hi> Day; which the <hi>Turks</hi> hold to be happy and fortunat to their Arms, that Prince being return'd with the <hi>Imperial</hi> Army to the Neighbourhood of <hi>Potaſchin,</hi> or <hi>Baraſchin,</hi> caus'd his Army to be Mar<g ref="char:EOLhyphen"/>ſhall'd in Battel-array, on the Banks of the <hi>Morava.</hi> The Night before, the Bridge-maſter cauſ'd two Bridges to be laid over that River, with ſo much Diligence, that to Reward his Pains and Labours, that Prince had given him a Gratification of a Thouſand <hi>Florins.</hi> Ten Thouſand <hi>Turks</hi> that had paſſ'd that River over their own Bridges, with a deſign to Charge our Reer, were Encounter'd by one of our Detachments that was ſent to view them; and after a ſlight Skirmiſh, it returned to joyn our Camp, with a <hi>Chiaux</hi> and four <hi>Tartars</hi> they had taken Priſoners, being not ſtrong e<g ref="char:EOLhyphen"/>nough
+<pb n="2" facs="tcp:175888:2"/> any longer to make head againſt them with advantage. The 10000 <hi>Turks</hi> ſeeing our Party retreat, purſued it into the very ſight of our Camp, whence great Detachments of Cavalry and Dragoons, were made to drive them back; but while they were engag'd, the Prince of <hi>Baden</hi> caus'd part of his Foot to paſs to the other ſide of the <hi>Morava,</hi> with deſign to Attack the main Body of the <hi>Turks,</hi> ſince they expreſs'd ſo much eagerneſs to Fight upon a be<g ref="char:EOLhyphen"/>lief, it was out of fear that our Army retired: we had no ſooner three Bat<g ref="char:EOLhyphen"/>talions, and five Squadrons on the other ſide, but that the <hi>Oltomans</hi> came to Charge them moſt furiouſly with their <hi>Drawn-Sabres;</hi> but having met our <note n="*" place="margin">A Term in Fortification, ſignifying Poſts Armed with Spikes.</note> 
+               <hi>Chevaux de Frize,</hi> who ſtop'd their Cavalry, the <hi>Imperialists</hi> kill'd a great number of them in this Action, and they were forc'd to fall back into the <hi>De<g ref="char:EOLhyphen"/>filees,</hi> where they ſtood our coming up: Then it was, that our Cavalry that had been Detatched againſt 10000 <hi>Turks,</hi> who would have Charg'd our Reer, repulſ'd them, and forc'd them to repaſs the <hi>Morava</hi> as faſt as they could. Our whole Army being paſs'd, the <hi>Turks</hi> reinforc'd themſelves in the <hi>Defilees,</hi> they poſſeſſed before the Plain which they covered, and which had a Wood on one ſide, and Hills on the other. The Entrance into the Plain, into which the <hi>Defilees</hi> led, was interlac'd with ſeveral <hi>Mooraſſes,</hi> which rendred the Acceſs to it very difficult. The Prince of <hi>Baden</hi> cauſed the Regiments of <hi>Seraw</hi> and <hi>Kiſſel,</hi> who were in the Van of the Army, to drive the Enemies from their <hi>De<g ref="char:EOLhyphen"/>filees.</hi> There needed no more than to give our Men to underſtand that they muſt purſue the <hi>Ottomans,</hi> and not let the occaſion, they had, ſlip of gain<g ref="char:EOLhyphen"/>ing a great Victory,, to ſet the Horſe and Foot upon paſſing a-croſs thoſe <hi>Moo<g ref="char:EOLhyphen"/>raſles</hi> in the Water up to the Middle, nay up to their very Shoulders, holding up their Arms and Weapons, to hinder them from being wet; and according as they paſs'd, they formed themſelves into Squadrons and Battalions, until that at length, all being paſs'd, and the Battel drawn up in Battel-array, our Troops march'd directly upon the Enemy, who ſtood our coming up upon a Hill; and they attack'd the Inſidels with ſo much Courage and Fierceneſs, that they forc'd their Entrenchments, notwithſtanding their Oppoſition; and after having kill'd a vaſt Number, forc'd them to betake themſelves to Flight.</p>
+            <p>By this Victory we remain'd Maſters of the <hi>Turks</hi> Camp, of all their Bag<g ref="char:EOLhyphen"/>gage, Tents, Carriages, Ammunition and Proviſions, as alſo of a hundred and five Pieces of Cannon, of ſeveral Mortar-pieces, of a vaſt number of Colours and Standards, of the Great Horſes Tail (which is the <hi>Turks</hi> Great Standard), and abundance of other Riches, inſomuch that the Soldiers rejoice in a World of Booty. They Attack'd them with that vigor, that after a Fight of about 4 hours, there were 50000 Routed, 20000 killed, and 6000 taken Priſoners. Count <hi>Caſtelli</hi> and Baron <hi>Smidbergh,</hi> who brought the firſt Account, departed from the Camp immediatly after this great Victory, which we hope to be able ſhortly to give a more individual Account of.</p>
+            <p>Prince <hi>Lowis,</hi> after this happy Succeſs, which coſt not the Imperialiſts 1000 Men, continued his March towards <hi>Niſſa,</hi> to deſtroy the Enemies great Mega<g ref="char:EOLhyphen"/>zines there.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Re-Printed in the Year, 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
